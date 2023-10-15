@@ -22,7 +22,7 @@ N/A
     </tr>  
   </thead>
     <tr>
-      <td><img src="https://amurorai203.github.io/Portfolio/images/BookStrap-Portfolio.jpg" width="500"></td>
+      <td><img src="https://amurorai203.github.io/Bootstrap-Portfolio/images/BookStrap-Portfolio.jpg" width="500"></td>
     </tr>
   </tbody>
 </table>
